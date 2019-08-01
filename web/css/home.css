@@ -1,0 +1,89 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jan 3, 2019, 2:46:48 PM
+    Author     : asethy
+*/
+
+
+.profile
+{
+	background-image: linear-gradient(to right, dodgerblue, mediumseagreen); 
+    /*  width: ;         */
+	height: 50%;
+	padding: 20px;
+	border: 1px;
+	font-family: Calibri, Arial, Verdana, Sans-serif;
+	font-size: 30px;
+	font-variant: small-caps;
+	font-weight: bold;
+	color: white;
+	text-align: left;
+	text-decoration: none;
+}
+
+.topmenu
+{
+    background-image: linear-gradient(to right, dodgerblue, mediumseagreen);
+    overflow: hidden;
+    font-family: Calibri, Arial, Verdana, Sans-serif;
+    width:available;
+}
+
+.topmenu a
+{
+    float:right;
+    color: #f2f2f2;
+    text-align: center;
+    padding:16px;
+    text-decoration: none;
+    font-size: 16px;
+    
+}
+
+.topmenu a:hover
+{
+    background-color: #0099ff;
+    color: white;
+}
+
+.topmenu a:active
+{
+    background-color: #4CAF50;
+    color: gold;
+}
+
+h1
+{
+    background-image: linear-gradient(to right, #0099ff, white);
+    color: white;
+    font-family: Calibri, Arial, Verdana, Sans-serif;
+    font-size: 18px;
+    padding: 10px;
+}
+
+table 
+{
+    border: 8px solid #0099ff;  
+    padding: 5px;
+}
+
+th
+{
+    border-bottom: 2px dotted blueviolet;
+    padding: 10px;
+    color: blue;
+    font-family: Calibri, Arial, Verdana, Sans-serif;
+    font-size: 18px;
+}
+
+td
+{
+    padding: 10px;
+    color: green;
+    font-family: Calibri, Arial, Verdana, Sans-serif;
+    font-size: 18px;
+}
